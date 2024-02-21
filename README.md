@@ -16,6 +16,6 @@ The `test.py` file, created by MIT 6.101 course staff, includes test cases to va
 
 To use the Lisp Interpreter, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/lisp-interpreter.git`
-2. Navigate to the project directory: `cd lisp-interpreter`
+1. Clone the repository: `git clone https://github.com/baileym4/schemeinterpreter.git`
+2. Navigate to the project directory: `cd scheme-interpreter`
 3. Run the `lab.py` file to start the Scheme interpreter in your terminal.
